@@ -1,0 +1,39 @@
+Expression	Class
+how are you?	feeling
+hello	greeting
+see you later	leaving
+talk to you later	leaving
+hows the weather	weather
+whats the temperature	weather
+hi	greeting
+what time is it	time
+could you tell me what time it is	time
+thank you	grace
+thanks	grace
+open opera	browser
+open youtube music	browser
+open spotify	browser
+suggest me a movie	suggestion
+suggest me a song	suggestion
+what is	search
+can you tell me	search
+why	search
+when	search
+where	search
+who	search
+open whatsapp	app
+emails	browser
+show me my emails	browser
+what are the news	browser
+what are you doing	feeling
+how do you feel	feeling
+goodbye	leaving
+take care of yourself	leaving
+you re so sweet	feeling
+amiy, can you tell me	search
+amiy, make me a joke	fun
+amiy can you tell me joke	fun
+amiy sing for me	fun
+amiy sing for me	fun
+amiy who am ý	fun
+amiy are you woman	fun
